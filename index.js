@@ -154,6 +154,7 @@ console.log("Sıralanmış Sayılar: ", siralisayilar);
 
 // 3f çözümü
 
+
 tekraredensayilar = [];
 
 let sayiSayac = {};
